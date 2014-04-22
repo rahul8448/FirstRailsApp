@@ -11,6 +11,10 @@ gem 'sass-rails', '~> 4.0.2'
 
 gem  'devise'
 
+gem 'simple_form'
+
+gem 'protected_attributes'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
